@@ -24,8 +24,8 @@ const NavBar = () => {
           onClick={() => setIsOpen(false)}
           to="/"
           className={({ isActive }) =>
-            `transition-all duration-200 hover:text-pink-600 hover:underline ${
-              isActive ? "text-pink-600 font-bold underline" : ""
+            `transition-all duration-200 hover:text-primary hover:underline ${
+              isActive ? "text-primary font-bold underline" : ""
             }`
           }
         >
@@ -38,8 +38,8 @@ const NavBar = () => {
           onClick={() => setIsOpen(false)}
           to="/allblog"
           className={({ isActive }) =>
-            `transition-all duration-200 hover:text-pink-600 hover:underline ${
-              isActive ? "text-pink-600 font-bold underline" : ""
+            `transition-all duration-200 hover:text-primary hover:underline ${
+              isActive ? "text-primary font-bold underline" : ""
             }`
           }
         >
@@ -52,8 +52,8 @@ const NavBar = () => {
           onClick={() => setIsOpen(false)}
           to="/addblog"
           className={({ isActive }) =>
-            `transition-all duration-200 hover:text-pink-600 hover:underline ${
-              isActive ? "text-pink-600 font-bold underline" : ""
+            `transition-all duration-200 hover:text-primary hover:underline ${
+              isActive ? "text-primary font-bold underline" : ""
             }`
           }
         >
@@ -66,8 +66,8 @@ const NavBar = () => {
           onClick={() => setIsOpen(false)}
           to="/featuredblog"
           className={({ isActive }) =>
-            `transition-all duration-200 hover:text-pink-600 hover:underline ${
-              isActive ? "text-pink-600 font-bold underline" : ""
+            `transition-all duration-200 hover:text-primary hover:underline ${
+              isActive ? "text-primary font-bold underline" : ""
             }`
           }
         >
@@ -80,8 +80,8 @@ const NavBar = () => {
           onClick={() => setIsOpen(false)}
           to="/wishlist"
           className={({ isActive }) =>
-            `transition-all duration-200 hover:text-pink-600 hover:underline ${
-              isActive ? "text-pink-600 font-bold underline" : ""
+            `transition-all duration-200 hover:text-primary hover:underline ${
+              isActive ? "text-primary font-bold underline" : ""
             }`
           }
         >
@@ -134,13 +134,13 @@ const NavBar = () => {
           )}
         </div>
 
-        <a className="text-xl font-bold ml-2">BLOG</a>
+        <a className="text-xl font-bold ml-2 text-primary">Mind<span className="text-black">Wave</span></a>
       </div>
 
       {/* Desktop Menu */}
       <div className="navbar-end hidden lg:flex gap-3">
         <ul className="menu menu-horizontal px-1">{navs}</ul>
-        <button className="btn btn-accent text-white">Login</button>
+        <button className="btn bg-primary text-white">Login</button>
       </div>
     </div>
   );

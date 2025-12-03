@@ -1,0 +1,137 @@
+[
+  {
+    "title": "How JavaScript Is Changing Modern Web Development",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/049/191/168/small/a-modern-workspace-featuring-advanced-technology-including-a-holographic-calendar-and-illuminated-data-streams-creating-an-innovative-and-dynamic-environment-for-productivity-photo.jpg",
+    "shortDescription": "Modern web development is powered heavily by JavaScript frameworks.",
+    "longDescription": "JavaScript has evolved from a simple scripting language to the backbone of modern web development. Frameworks like React, Vue, and Angular have completely transformed how dynamic user interfaces are created. With the rise of Node.js, JavaScript has even taken over backend development. Today, developers can build full-stack applications using one language. This article explores how JavaScript is reshaping the future of web technologies.",
+    "category": "Technology",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Top 10 UI Trends in Mobile App Design",
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "shortDescription": "UI design is constantly evolving with modern devices and user needs.",
+    "longDescription": "Mobile app UI design focuses on creating visually appealing and easy-to-navigate interfaces. In recent years, trends like neumorphism, bold typography, soft shadows, pastel gradients, and micro-interactions have dominated the industry. Designers are now shifting towards minimalistic approaches to improve user experience. This blog covers the most impactful UI trends you must follow in your next project.",
+    "category": "Design",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Cyber Security Tips Every Internet User Should Know",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "shortDescription": "Online safety is now more important than ever.",
+    "longDescription": "As technology advances, cyber threats are becoming more sophisticated. Every internet user must know how to stay safe online. Using strong passwords, enabling two-factor authentication, avoiding suspicious links, and keeping software updated are essential steps. This blog discusses practical cyber security strategies that protect your personal and financial information from hacking attempts.",
+    "category": "Cyber Security",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "The Rise of Artificial Intelligence in Daily Life",
+    "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "shortDescription": "AI is now everywhere—from smartphones to smart homes.",
+    "longDescription": "Artificial Intelligence is transforming industries at a rapid pace. AI assistants like Siri, Google Assistant, and Alexa have made daily tasks easier. Machine learning algorithms are used in health diagnoses, transportation, customer service, and even entertainment. This blog explores how AI has become an essential part of our lives and what future possibilities it holds.",
+    "category": "AI",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "How to Become a Full Stack Web Developer",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+    "shortDescription": "Learn the essential skills required to master full-stack development.",
+    "longDescription": "Full-stack development involves working on both frontend and backend. Beginners should start with HTML, CSS, JavaScript, and then move to frameworks like React. For backend, Node.js, Express.js, and MongoDB are widely used. This blog provides a detailed roadmap and tips for becoming a professional full-stack developer in 2025.",
+    "category": "Programming",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Improve Your Work Productivity with These Simple Tricks",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "shortDescription": "Small changes can drastically improve your work performance.",
+    "longDescription": "Productivity depends on time management, focus, and discipline. Techniques like time-blocking, the Pomodoro method, and task prioritization can help increase efficiency. Maintaining a clean workspace and avoiding multitasking also play a major role. This blog explains easy productivity hacks anyone can apply.",
+    "category": "Productivity",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Top 5 Countries to Visit in 2025",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "shortDescription": "Travel around the world and explore breathtaking destinations.",
+    "longDescription": "Travelers in 2025 are looking for stunning landscapes and unique cultures. Countries like Japan, Iceland, Switzerland, Indonesia, and Canada offer incredible experiences. From scenic mountains to crystal blue oceans, these destinations are perfect for both adventure and relaxation. This blog highlights what makes each country special.",
+    "category": "Travel",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Top 10 Healthy Foods You Should Add to Your Diet",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "shortDescription": "A healthy lifestyle starts with eating the right foods.",
+    "longDescription": "Nutrition plays a crucial role in maintaining good health. Foods like avocados, nuts, berries, fish, vegetables, and whole grains contain essential vitamins and antioxidants. These superfoods improve heart health, boost immunity, and increase energy levels. This blog lists the top foods you should eat daily.",
+    "category": "Food",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Mastering Photography: Tips for Better Photos",
+    "image": "https://img.freepik.com/premium-photo/silhouette-woman-photographing-against-sky-sunset_1048944-9519448.jpg?semt=ais_hybrid&w=740&q=80",
+    "shortDescription": "Anyone can become a great photographer with practice.",
+    "longDescription": "Photography is all about capturing the right moment with the right angle. Understanding composition, lighting, and camera settings can dramatically improve your photos. Whether you're using a smartphone or a DSLR, this blog shares expert-level tips that will take your shots to the next level.",
+    "category": "Photography",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Why You Should Spend Time in Nature",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "shortDescription": "Nature refreshes the mind and improves mental health.",
+    "longDescription": "Spending time in nature reduces stress, boosts creativity, and strengthens mental well-being. Forests, rivers, mountains, and fresh air help the brain relax. This blog discusses the benefits of nature therapy and why everyone should take regular breaks from busy city life.",
+    "category": "Nature",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "How to Build a Successful Startup",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "shortDescription": "Learn the key strategies behind successful startups.",
+    "longDescription": "Starting a business requires planning, execution, and adaptability. Entrepreneurs must identify market needs, build strong teams, and create valuable products. This blog explains how successful startups grow through innovation, leadership, and consistency.",
+    "category": "Business",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Study Smart: Techniques for Faster Learning",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+    "shortDescription": "Smart study methods help you learn faster and remember longer.",
+    "longDescription": "Instead of studying for long hours, learning smarter techniques can improve understanding. Active recall, spaced repetition, and mind mapping are scientifically proven methods. This blog teaches students how to prepare effectively for exams.",
+    "category": "Education",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "How to Stay Fit While Working a Desk Job",
+    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74",
+    "shortDescription": "Small exercises can keep you healthy even with office work.",
+    "longDescription": "Desk jobs often cause back pain, weight gain, and stress. Doing simple stretches, walking breaks, and regular exercises can prevent long-term health issues. This blog shares fitness tips for office workers who want to stay active.",
+    "category": "Health",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "Motivation: How to Keep Going When Life Gets Tough",
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4",
+    "shortDescription": "Life gets hard, but your mindset decides your strength.",
+    "longDescription": "Everyone faces challenges, but staying motivated helps you overcome obstacles. Setting small goals, surrounding yourself with positive people, and celebrating progress keeps you inspired. This blog shares deep motivational insights to help you stay strong.",
+    "category": "Motivation",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  },
+  {
+    "title": "The Future of Gaming and Esports",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e",
+    "shortDescription": "Gaming is evolving faster than ever.",
+    "longDescription": "Esports has grown into a billion-dollar industry. Competitive gaming, VR technology, cloud gaming, and AI-driven experiences are shaping the future. This blog explores new opportunities in the gaming world and why it is becoming a global phenomenon.",
+    "category": "Gaming",
+    "wishlistCount": 15,
+    "detailsButton": "View Details"
+  }
+]
