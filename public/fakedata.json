@@ -1,137 +1,137 @@
 [
   {
+    "id": 1,
     "title": "How JavaScript Is Changing Modern Web Development",
     "image": "https://static.vecteezy.com/system/resources/thumbnails/049/191/168/small/a-modern-workspace-featuring-advanced-technology-including-a-holographic-calendar-and-illuminated-data-streams-creating-an-innovative-and-dynamic-environment-for-productivity-photo.jpg",
     "shortDescription": "Modern web development is powered heavily by JavaScript frameworks.",
-    "longDescription": "JavaScript has evolved from a simple scripting language to the backbone of modern web development. Frameworks like React, Vue, and Angular have completely transformed how dynamic user interfaces are created. With the rise of Node.js, JavaScript has even taken over backend development. Today, developers can build full-stack applications using one language. This article explores how JavaScript is reshaping the future of web technologies.",
+    "longDescription": "JavaScript has transformed from a simple browser scripting language into the core of modern web development. Today, it powers everything from interactive user interfaces to full-stack applications. Frameworks like React, Vue, and Angular have made development faster, scalable, and more organized. With Node.js, JavaScript can now manage backend servers as well. Modern tooling such as bundlers, package managers, and TypeScript has boosted reliability and speed. As technology continues to innovate, JavaScript remains a dominant force shaping the future of the digital world.",
     "category": "Technology",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:21 PM"
   },
   {
+    "id": 2,
     "title": "Top 10 UI Trends in Mobile App Design",
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&auto=format&fit=crop",
     "shortDescription": "UI design is constantly evolving with modern devices and user needs.",
-    "longDescription": "Mobile app UI design focuses on creating visually appealing and easy-to-navigate interfaces. In recent years, trends like neumorphism, bold typography, soft shadows, pastel gradients, and micro-interactions have dominated the industry. Designers are now shifting towards minimalistic approaches to improve user experience. This blog covers the most impactful UI trends you must follow in your next project.",
+    "longDescription": "Mobile app UI design trends are becoming more user-centric than ever. Designers now focus on simplicity, dark mode interfaces, immersive animations, minimal icons, and bold fonts. Modern UI emphasizes accessibility, making apps usable for everyone including people with visual challenges. 3D illustrations, micro-interactions, and neumorphism are enhancing user engagement. Personalization through AI and smart suggestions is also redefining UI experiences. As technology evolves, UI design continues to adapt around user preferences, creating interfaces that are both beautiful and functional.",
     "category": "Design",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:22 PM"
   },
   {
+    "id": 3,
     "title": "Cyber Security Tips Every Internet User Should Know",
-    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&auto=format&fit=crop",
     "shortDescription": "Online safety is now more important than ever.",
-    "longDescription": "As technology advances, cyber threats are becoming more sophisticated. Every internet user must know how to stay safe online. Using strong passwords, enabling two-factor authentication, avoiding suspicious links, and keeping software updated are essential steps. This blog discusses practical cyber security strategies that protect your personal and financial information from hacking attempts.",
+    "longDescription": "Cybersecurity is becoming increasingly critical as hackers continually find new ways to attack users online. Simple preventive actions can save users from huge data losses. Using strong passwords, enabling two-factor authentication, avoiding suspicious links, and regularly updating software are essential security steps. Public Wi-Fi should be used carefully, and sensitive transactions should be avoided on open networks. Educating yourself about phishing attacks, scam emails, and malware is key to staying safe. With small but smart digital habits, anyone can protect their online identity and privacy.",
     "category": "Cyber Security",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:23 PM"
   },
   {
+    "id": 4,
     "title": "The Rise of Artificial Intelligence in Daily Life",
-    "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "image": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=800&auto=format&fit=crop",
     "shortDescription": "AI is now everywhere—from smartphones to smart homes.",
-    "longDescription": "Artificial Intelligence is transforming industries at a rapid pace. AI assistants like Siri, Google Assistant, and Alexa have made daily tasks easier. Machine learning algorithms are used in health diagnoses, transportation, customer service, and even entertainment. This blog explores how AI has become an essential part of our lives and what future possibilities it holds.",
+    "longDescription": "Artificial Intelligence is no longer limited to research labs or tech companies. It is shaping everyday life through smartphones, voice assistants, smart home devices, AI-powered cameras, recommendation systems, and personalized healthcare tools. Businesses use AI for automation, predictive analytics, and customer support through chatbots. Self-driving cars, intelligent robots, and AI-powered education tools show that the future will be more efficient and personalized. Although concerns about privacy and job automation remain, AI continues to revolutionize daily experiences and improve decision-making in every sector.",
     "category": "AI",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:24 PM"
   },
   {
+    "id": 5,
     "title": "How to Become a Full Stack Web Developer",
-    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+    "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&auto=format&fit=crop",
     "shortDescription": "Learn the essential skills required to master full-stack development.",
-    "longDescription": "Full-stack development involves working on both frontend and backend. Beginners should start with HTML, CSS, JavaScript, and then move to frameworks like React. For backend, Node.js, Express.js, and MongoDB are widely used. This blog provides a detailed roadmap and tips for becoming a professional full-stack developer in 2025.",
+    "longDescription": "Becoming a full-stack developer requires knowledge of both frontend and backend technology. On the frontend, HTML, CSS, JavaScript, and frameworks like React or Vue are essential. On the backend, Node.js, Django, Laravel, or Express help handle server logic, databases, and APIs. A full-stack developer must also understand Git, databases (MongoDB, MySQL), deployment tools, and debugging techniques. With practice, consistency, and real projects, anyone can build the skills to become a complete full-stack developer capable of creating entire web applications from scratch.",
     "category": "Programming",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:25 PM"
   },
   {
+    "id": 6,
     "title": "Improve Your Work Productivity with These Simple Tricks",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&auto=format&fit=crop",
     "shortDescription": "Small changes can drastically improve your work performance.",
-    "longDescription": "Productivity depends on time management, focus, and discipline. Techniques like time-blocking, the Pomodoro method, and task prioritization can help increase efficiency. Maintaining a clean workspace and avoiding multitasking also play a major role. This blog explains easy productivity hacks anyone can apply.",
+    "longDescription": "Improving productivity doesn't require working harder, but smarter. Techniques such as time blocking, prioritizing tasks, taking regular breaks, and minimizing distractions can greatly enhance work output. Using productivity tools, keeping a clean workspace, and setting clear goals also help maintain focus. Small habits like avoiding multitasking, delegating tasks, and planning the day ahead can drastically improve efficiency. By adopting consistent routines and measuring progress, anyone can achieve more while maintaining balance.",
     "category": "Productivity",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:26 PM"
   },
   {
+    "id": 7,
     "title": "Top 5 Countries to Visit in 2025",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop",
     "shortDescription": "Travel around the world and explore breathtaking destinations.",
-    "longDescription": "Travelers in 2025 are looking for stunning landscapes and unique cultures. Countries like Japan, Iceland, Switzerland, Indonesia, and Canada offer incredible experiences. From scenic mountains to crystal blue oceans, these destinations are perfect for both adventure and relaxation. This blog highlights what makes each country special.",
+    "longDescription": "Travel enthusiasts in 2025 are looking for destinations that offer both natural beauty and cultural richness. Countries like Japan, New Zealand, Italy, Iceland, and Canada are among the top picks for breathtaking landscapes, historic architecture, and unique experiences. Travelers are increasingly seeking eco-friendly travel options, immersive local experiences, and off-the-beaten-path adventures. Planning ahead, understanding local customs, and balancing popular sites with hidden gems ensure a memorable journey.",
     "category": "Travel",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:27 PM"
   },
   {
+    "id": 8,
     "title": "Top 10 Healthy Foods You Should Add to Your Diet",
-    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&auto=format&fit=crop",
     "shortDescription": "A healthy lifestyle starts with eating the right foods.",
-    "longDescription": "Nutrition plays a crucial role in maintaining good health. Foods like avocados, nuts, berries, fish, vegetables, and whole grains contain essential vitamins and antioxidants. These superfoods improve heart health, boost immunity, and increase energy levels. This blog lists the top foods you should eat daily.",
+    "longDescription": "Eating a balanced diet is crucial for maintaining good health. Nutrient-rich foods like leafy greens, fruits, nuts, whole grains, lean proteins, and healthy fats provide energy, support immunity, and reduce the risk of chronic diseases. Including a variety of colors on your plate ensures essential vitamins and minerals. Limiting processed foods, sugar, and excessive salt is equally important. Consistent healthy eating habits improve mental clarity, physical performance, and overall well-being.",
     "category": "Food",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:28 PM"
   },
   {
+    "id": 9,
     "title": "Mastering Photography: Tips for Better Photos",
-    "image": "https://img.freepik.com/premium-photo/silhouette-woman-photographing-against-sky-sunset_1048944-9519448.jpg?semt=ais_hybrid&w=740&q=80",
+    "image": "https://img.freepik.com/premium-photo/silhouette-woman-photographing-against-sky-sunset_1048944-9519448.jpg?w=740&q=80",
     "shortDescription": "Anyone can become a great photographer with practice.",
-    "longDescription": "Photography is all about capturing the right moment with the right angle. Understanding composition, lighting, and camera settings can dramatically improve your photos. Whether you're using a smartphone or a DSLR, this blog shares expert-level tips that will take your shots to the next level.",
+    "longDescription": "Photography is about capturing the right moment, light, and composition. Understanding your camera, experimenting with angles, using natural light effectively, and editing wisely are key to improving skills. Learning storytelling through images, practicing patience, and observing surroundings enhance photographic creativity. With consistent practice, analyzing professional work, and seeking feedback, anyone can develop the skills needed to take stunning and meaningful photographs.",
     "category": "Photography",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:29 PM"
   },
   {
+    "id": 10,
     "title": "Why You Should Spend Time in Nature",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop",
     "shortDescription": "Nature refreshes the mind and improves mental health.",
-    "longDescription": "Spending time in nature reduces stress, boosts creativity, and strengthens mental well-being. Forests, rivers, mountains, and fresh air help the brain relax. This blog discusses the benefits of nature therapy and why everyone should take regular breaks from busy city life.",
+    "longDescription": "Spending time in nature reduces stress, improves focus, and enhances overall well-being. Activities like hiking, walking in parks, or simply sitting by a river allow people to disconnect from technology and reconnect with the natural world. Exposure to natural light and greenery boosts mood, creativity, and physical health. Making regular time for nature is a simple yet powerful way to maintain mental clarity and emotional balance.",
     "category": "Nature",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:30 PM"
   },
   {
+    "id": 11,
     "title": "How to Build a Successful Startup",
-    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&auto=format&fit=crop",
     "shortDescription": "Learn the key strategies behind successful startups.",
-    "longDescription": "Starting a business requires planning, execution, and adaptability. Entrepreneurs must identify market needs, build strong teams, and create valuable products. This blog explains how successful startups grow through innovation, leadership, and consistency.",
+    "longDescription": "Building a successful startup requires a clear vision, solid planning, and relentless execution. Entrepreneurs must identify market needs, develop viable products, and create business models that scale. Building a strong team, understanding finances, securing funding, and implementing effective marketing strategies are also critical. Learning from failures, adapting to feedback, and staying resilient can significantly improve the chances of success in the competitive startup ecosystem.",
     "category": "Business",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:31 PM"
   },
   {
+    "id": 12,
     "title": "Study Smart: Techniques for Faster Learning",
-    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&auto=format&fit=crop",
     "shortDescription": "Smart study methods help you learn faster and remember longer.",
-    "longDescription": "Instead of studying for long hours, learning smarter techniques can improve understanding. Active recall, spaced repetition, and mind mapping are scientifically proven methods. This blog teaches students how to prepare effectively for exams.",
+    "longDescription": "Studying smarter, not harder, improves knowledge retention and efficiency. Techniques like spaced repetition, active recall, summarizing notes, and practicing problem-solving help reinforce memory. Creating a distraction-free study environment, setting clear goals, and taking regular breaks enhance focus. Using visual aids, teaching others, and self-testing also support faster and deeper learning. Adopting these strategies allows students to maximize productivity and improve performance.",
     "category": "Education",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:32 PM"
   },
   {
+    "id": 13,
     "title": "How to Stay Fit While Working a Desk Job",
-    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74",
+    "image": "https://images.unsplash.com/photo-1554284126-aa88f22d8b74?w=800&auto=format&fit=crop",
     "shortDescription": "Small exercises can keep you healthy even with office work.",
-    "longDescription": "Desk jobs often cause back pain, weight gain, and stress. Doing simple stretches, walking breaks, and regular exercises can prevent long-term health issues. This blog shares fitness tips for office workers who want to stay active.",
+    "longDescription": "Desk jobs can lead to weight gain, poor posture, and reduced fitness. Simple practices like stretching, short walks, standing desks, and mini workouts throughout the day help maintain health. Staying hydrated, taking breaks to move, and practicing good ergonomics prevent long-term issues. Incorporating balanced meals, core exercises, and regular cardio outside work hours supports overall well-being. Consistent effort ensures fitness without compromising office productivity.",
     "category": "Health",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:33 PM"
   },
   {
+    "id": 14,
     "title": "Motivation: How to Keep Going When Life Gets Tough",
-    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4",
+    "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&auto=format&fit=crop",
     "shortDescription": "Life gets hard, but your mindset decides your strength.",
-    "longDescription": "Everyone faces challenges, but staying motivated helps you overcome obstacles. Setting small goals, surrounding yourself with positive people, and celebrating progress keeps you inspired. This blog shares deep motivational insights to help you stay strong.",
+    "longDescription": "Staying motivated during difficult times requires mindset, resilience, and small actionable steps. Setting achievable goals, celebrating small victories, and maintaining a positive support system are key. Mindfulness, journaling, and learning from failures help strengthen mental endurance. Understanding that setbacks are part of growth allows one to stay persistent. Motivation is built daily through consistent habits, self-belief, and maintaining clarity on long-term objectives.",
     "category": "Motivation",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:34 PM"
   },
   {
+    "id": 15,
     "title": "The Future of Gaming and Esports",
-    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&auto=format&fit=crop",
     "shortDescription": "Gaming is evolving faster than ever.",
-    "longDescription": "Esports has grown into a billion-dollar industry. Competitive gaming, VR technology, cloud gaming, and AI-driven experiences are shaping the future. This blog explores new opportunities in the gaming world and why it is becoming a global phenomenon.",
+    "longDescription": "The gaming industry is expanding rapidly, with esports becoming a mainstream form of competition and entertainment. Virtual reality, augmented reality, cloud gaming, and AI-driven game mechanics are changing how players experience games. Professional esports leagues, tournaments, and live streaming platforms create global communities and career opportunities. Gaming is also influencing culture, media, and education. Staying updated with technological innovations ensures gamers, developers, and fans continue to enjoy evolving immersive experiences.",
     "category": "Gaming",
-    "wishlistCount": 15,
-    "detailsButton": "View Details"
+    "creationTime": "Dec 04, 2025, 5:35 PM"
   }
 ]

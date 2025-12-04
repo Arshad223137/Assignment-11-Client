@@ -5,6 +5,7 @@ import AddedBlog from "../components/blogs/AddedBlog";
 import FeaturedBlogs from "../components/blogs/FeaturedBlogs";
 import AllBlog from "../components/blogs/AllBlog";
 import WishList from "../components/wishList/WishList";
+import Details from "../components/detailsPage/Details";
 
 export const router = createBrowserRouter([
   {
@@ -26,6 +27,11 @@ export const router = createBrowserRouter([
       {
         path: "/allblog",
         element: <AllBlog />,
+      },
+      {
+        path: "/details/:id",
+        element: <Details />,
+        loader: () => fetch("/fakedata.json").then((res) => res.json()),
       },
       {
         path: "/wishlist",

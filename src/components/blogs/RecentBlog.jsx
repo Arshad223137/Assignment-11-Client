@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 // props: blogs = array of blog objects
 const RecentBlog = () => {
@@ -10,7 +11,6 @@ const RecentBlog = () => {
       .then((data) => setblogs(data));
   }, []);
 
- 
   const recentBlogs = blogs.slice(0, 6);
 
   return (
@@ -41,12 +41,13 @@ const RecentBlog = () => {
                 </div>
 
                 <div className="flex justify-between items-center mt-auto">
-                  <button className="btn btn-sm btn-primary">
-                    {blog.detailsButton || "Details"}
-                  </button>
-                  <button className="btn btn-sm btn-outline">
-                    ❤️ {blog.wishlistCount || 0}
-                  </button>
+                  <Link
+                    to={`/details/${blog.id}`}
+                    className="btn btn-sm btn-primary"
+                  >
+                    Details
+                  </Link>
+                  <p>{blog?.creationTime}</p>
                 </div>
               </div>
             </div>

@@ -12,12 +12,14 @@ const AllBlog = () => {
   return (
     <section className="py-16 bg-base-100">
       <div className="max-w-7xl mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center mb-12">All-Blogs</h2>
+        <h2 className="text-3xl font-bold text-center mb-12">
+          All<span className="text-primary">-</span>Blogs
+        </h2>
 
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-          {blogs.map((blog) => (
+          {blogs.map((blog, index) => (
             <div
-              key={blog.id}
+              key={index}
               className="card bg-white shadow-lg rounded-xl overflow-hidden hover:shadow-2xl transition-shadow duration-300"
             >
               <img
@@ -36,9 +38,7 @@ const AllBlog = () => {
 
                 <div className="flex justify-between items-center mt-auto">
                   <button className="btn btn-sm btn-primary">Details</button>
-                  <button className="btn btn-sm btn-outline">
-                    ❤️ {blog.wishlistCount}
-                  </button>
+                  <p>{blog?.creationTime}</p>
                 </div>
               </div>
             </div>

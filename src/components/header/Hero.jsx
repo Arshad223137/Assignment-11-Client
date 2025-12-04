@@ -3,7 +3,7 @@ const Hero = () => {
     <div className="hero min-h-[80vh] bg-gradient-to-rfrom-base-200 to-base-300">
       <div className="hero-content flex-col md:flex-row-reverse gap-10">
         <img
-          src="https://images.unsplash.com/photo-1518770660439-4636190af475"
+          src="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&auto=format&fit=crop"
           className="max-w-sm lg:max-w-md w-full rounded-2xl shadow-xl object-cover"
           alt="Banner"
         />
@@ -13,7 +13,7 @@ const Hero = () => {
             Welcome to Our Blog
           </p>
 
-          <h1 className="text-4xl md:text-5xl font-bold leading-tight">
+          <h1 className="text-3xl md:text-5xl font-bold leading-tight">
             Discover Trending <span className="text-primary">Tech Stories</span>{" "}
             & Creative Insights
           </h1>
