@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const AllBlog = () => {
   const [blogs, setBlogs] = useState([]);
@@ -37,7 +38,12 @@ const AllBlog = () => {
                 </div>
 
                 <div className="flex justify-between items-center mt-auto">
-                  <button className="btn btn-sm btn-primary">Details</button>
+                  <Link
+                    to={`/details/${blog.id}`}
+                    className="btn btn-sm btn-primary"
+                  >
+                    Details
+                  </Link>
                   <p>{blog?.creationTime}</p>
                 </div>
               </div>

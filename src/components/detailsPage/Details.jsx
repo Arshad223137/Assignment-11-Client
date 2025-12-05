@@ -10,12 +10,26 @@ const Details = () => {
 
   return (
     <div className="p-4 max-w-3xl mx-auto my-10">
-      <img src={blog.image} alt={blog.title} className="rounded mb-4 w-full h-96 object-cover" />
+      <img
+        src={blog.image}
+        alt={blog.title}
+        className="rounded mb-4 w-full h-96 object-cover"
+      />
       <h1 className="text-2xl font-bold mb-2">{blog.title}</h1>
       <p className="mb-2">
         <strong>Category:</strong> {blog.category}
       </p>
-      <p>{blog.longDescription}</p>
+      <p>
+        {" "}
+        <span className="font-semibold">Short Description:</span>{" "}
+        {blog.shortDescription}
+      </p>
+
+      <p>
+        {" "}
+        <span className="font-semibold">Long Description:</span>{" "}
+        {blog.longDescription}
+      </p>
       <p className="mt-2 text-sm text-gray-500">Created: {blog.creationTime}</p>
     </div>
   );

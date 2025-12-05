@@ -6,7 +6,10 @@ const AddedBlog = () => {
   useEffect(() => {
     setInterval(() => {
       const now = new Date();
-      setTime(now.toLocaleString());
+      const date = now.toLocaleDateString("en-GB");
+      const clock = now.toLocaleTimeString("en-US");
+
+      setTime(`${date} ${clock}`);
     }, 1000);
   }, []);
   const handleSubmit = (e) => {
@@ -17,7 +20,7 @@ const AddedBlog = () => {
     const category = form.category.value;
     const shortDP = form.shortDP.value;
     const longDP = form.longDP.value;
-    const time = new Date().toLocaleString([],{
+    const time = new Date().toLocaleString([], {
       hour: "2-digit",
       minute: "2-digit",
     });
