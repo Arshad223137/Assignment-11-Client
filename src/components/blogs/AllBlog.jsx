@@ -10,6 +10,10 @@ const AllBlog = () => {
       .then((data) => setBlogs(data));
   }, []);
 
+  const handleWishlist = (id) => {
+    console.log(id);
+  };
+
   return (
     <section className="py-16 bg-base-100">
       <div className="max-w-7xl mx-auto px-4">
@@ -36,6 +40,7 @@ const AllBlog = () => {
                   <h3 className="text-xl font-bold mb-2">{blog.title}</h3>
                   <p className="text-gray-600 mb-4">{blog.shortDescription}</p>
                 </div>
+                <p>{blog?.creationTime}</p>
 
                 <div className="flex justify-between items-center mt-auto">
                   <Link
@@ -44,7 +49,12 @@ const AllBlog = () => {
                   >
                     Details
                   </Link>
-                  <p>{blog?.creationTime}</p>
+                  <button
+                    onClick={() => handleWishlist(blog?.id)}
+                    className="btn btn-sm text-white btn-accent"
+                  >
+                    Wishlist
+                  </button>
                 </div>
               </div>
             </div>
